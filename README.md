@@ -8,7 +8,7 @@
     <div align="center">
         <h1>About Me:</h1>
         <p style="font-family="">
-            My Name is  Bima Putra Pratama, I'm 15 years old. I'm studying <code>software engineering</code> at SMK PGRI 3 Malang and I'm currently 10th grade.
+            Hello Everbody My Name is Bima Putra Pratama, I'm 15 years old. I'm studying <code>software engineering</code> at SMK PGRI 3 Malang and I'm currently 10th grade.
         </p>  
     </div>
     <hr>
