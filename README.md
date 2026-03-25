@@ -1,3 +1,4 @@
+<hr>
 <p align="center">
     <img
     width=400
@@ -6,36 +7,16 @@
     >
 <p>
 
-<hr>
-
 <h1 align="center">
-    <img width="40"src=images/wife.png> Hello! Welcome to My GitHub Profile <img width="40" src="https://media.tenor.com/3auYy9H5wJcAAAAm/limbus-company-don-quixote.webp">
+    <img width="40"src=images/wife.png> Hello! Welcome to My GitHub Profile <img
+    width="40" src="https://media.tenor.com/OzesR2_xugUAAAAi/lumine.gif">
 </h1>
-<p align="center">
-    <img
-    width="60"
-    src="https://media.tenor.com/GryJCAqS2KEAAAAm/project-moon-don.webp"
-    alt="icecream don">
-    <img
-    width="60"
-    src="https://media.tenor.com/OzesR2_xugUAAAAi/lumine.gif"
-    alt="pat lumine"
-    ><br>
+
+<p style="padding: 0px 15%;" align="center">
     Hello everybody my name is Bima Putra Pratama, I'm 15 years old. I'm 10th grade and studying software engineering at SMKS PGRI 3 Malang.
 </p>
 
-<hr>
-
 ## 💻 Currently studying
-<img 
-src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"
-alt="HTML 5">
-<img 
-src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"
-alt="CSS 3">
-<img 
-src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"
-alt="JavaScript">
 <img 
 src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"
 alt="Java">
@@ -43,10 +24,17 @@ alt="Java">
 src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"
 alt="C++">
 <img 
-src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"
+src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c&logoColor=white"
 alt="C#">
-
-<hr>
+<img 
+src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white"
+alt="MariaDB">
+<img 
+src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css&logoColor=white"
+alt="CSS">
+<img 
+src="https://img.shields.io/badge/GDScript-478CBF?style=for-the-badge&logo=GodotEngine&logoColor=white"
+alt="GDScript">
 
 ## ⌨ Tools that i use
 <img 
@@ -59,12 +47,19 @@ alt="Arch Linux">
 src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"
 alt="VSCode">
 <img 
+src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"
+alt="IntellIJ Idea">
+<img 
 src="https://img.shields.io/badge/apache%20netbeans-1B6AC6?style=for-the-badge&logo=apache%20netbeans%20IDE&logoColor=white"
 alt="Apache Netbeans">
+<img 
+src="https://img.shields.io/badge/MySQL%20workbench-005C84?style=for-the-badge&logo=mysql&logoColor=white"
+alt="MySQL Workbench">
+<img 
+src="https://img.shields.io/badge/Godot%20Engine-478CBF?style=for-the-badge&logo=GodotEngine&logoColor=white"
+alt="Godot">
 
-<hr>
-
-## 📞 Contact Me
+<h2>📞 Contact Me <img width="30" src="https://media.tenor.com/GryJCAqS2KEAAAAm/project-moon-don.webp"> </h2>
 
 <a target=_blank href="https://discord.com/users/503559039225954307">
     <img 
@@ -80,14 +75,12 @@ alt="Apache Netbeans">
     <img 
     src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
     alt="Instagram">
-</a>
+</a> <br>
 
-<hr>
-
-<p align="center">
-    <img
-    width=400 
-    src="https://media.tenor.com/_Cbr6Q-7bgwAAAAM/genshin-hoyo.gif">
+<p>
+  <a href="https://open.spotify.com/user/31xvcy4rkozsmcckyble6bzswowm">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31xvcy4rkozsmcckyble6bzswowm&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=false&bar_color=f0d75c&bar_color_cover=false&mode=dark">
+  </a>
 </p>
 
 <hr>
