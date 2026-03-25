@@ -13,7 +13,7 @@
 </h1>
 
 <p>
-    Hello everybody my name is Bima Putra Pratama, currently i'm 15 years old. I'm 10th grade and studying software engineering at SMKS PGRI 3 Malang.
+    Hello everybody my name is Bima Putra Pratama, i'm 15 years old. I'm 10th grade and studying software engineering at SMKS PGRI 3 Malang.
 </p> <br>
 
 ## 💻 Currently studying
