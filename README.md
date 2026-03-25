@@ -12,7 +12,7 @@
     width="40" src="https://media.tenor.com/OzesR2_xugUAAAAi/lumine.gif">
 </h1>
 
-<p align="center">
+<p>
     Hello everybody my name is Bima Putra Pratama, currently i'm 15 years old. I'm 10th grade and studying software engineering at SMKS PGRI 3 Malang.
 </p> <br>
 
