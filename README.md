@@ -3,7 +3,6 @@
     <img
     width=400
     src=https://media.tenor.com/yqZ3ZwPmdQMAAAAM/lumine-lantern-rite.gif
-    alt="greeting from lumine"
     >
 <p>
 
@@ -12,11 +11,12 @@
     width="40" src="https://media.tenor.com/OzesR2_xugUAAAAi/lumine.gif">
 </h1>
 
-<p>
-    Hello everybody my name is Bima Putra Pratama, i'm 15 years old. I'm 10th grade and studying software engineering at SMKS PGRI 3 Malang.
-</p> <br>
+## 🚹 About Me
+- `15 years old student, majoring computer science at SMKS PGRI 3 Malang.`
+- `Learn with music or a calm noise type of person.`
+- `Currently use Java Swing to develop a software (Still learning JavaFX & C#).`
 
-## 💻 Currently studying
+## 💻 Currently Studying
 <img 
 src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"
 alt="Java">
@@ -36,7 +36,7 @@ alt="CSS">
 src="https://img.shields.io/badge/GDScript-478CBF?style=for-the-badge&logo=GodotEngine&logoColor=white"
 alt="GDScript">
 
-## ⌨ Tools that i use
+## ⌨ Tools That I Use
 <img 
 src="https://img.shields.io/badge/Windows_10-003399?style=for-the-badge&logo=windows-11&logoColor=white"
 alt="Windows 10">
@@ -52,6 +52,9 @@ alt="IntellIJ Idea">
 <img 
 src="https://img.shields.io/badge/apache%20netbeans-1B6AC6?style=for-the-badge&logo=apache%20netbeans%20IDE&logoColor=white"
 alt="Apache Netbeans">
+<img 
+src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white"
+alt="Android Studio">
 <img 
 src="https://img.shields.io/badge/MySQL%20workbench-005C84?style=for-the-badge&logo=mysql&logoColor=white"
 alt="MySQL Workbench">
@@ -76,11 +79,5 @@ alt="Godot">
     src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
     alt="Instagram">
 </a> <br>
-
-<p>
-  <a href="https://open.spotify.com/user/31xvcy4rkozsmcckyble6bzswowm">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31xvcy4rkozsmcckyble6bzswowm&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=false&bar_color=f0d75c&bar_color_cover=false&mode=dark">
-  </a>
-</p>
 
 <hr>
