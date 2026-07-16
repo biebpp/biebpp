@@ -4,27 +4,18 @@
 </h1>
 
 ## 🚹 About Me
-- `15 years old student, majoring computer science at SMKS PGRI 3 Malang.`
-- `Currently studying programming fundamental`
+- `16 years old student, majoring software engineering at SMKS PGRI 3 Malang.`
+- `Currently learning programming fundamental`
+- `Lumine`
 
-## 💻 Currently Studying
-<img 
-src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"
-alt="Java">
-<img 
-src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white"
-alt="MariaDB">
-<img 
-src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"
-alt="PHP">
-<img 
-src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"
-alt="Node JS">
-<img 
-src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css&logoColor=white"
-alt="CSS">
+## 💻 Currently Learning
+![NextJS](https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Android Studio with Java](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 
-<h2>📞 Contact Me <img width="30" src="https://media.tenor.com/GryJCAqS2KEAAAAm/project-moon-don.webp"> </h2>
+<h2>📞 Connect with Me <img width="30" src="https://media.tenor.com/GryJCAqS2KEAAAAm/project-moon-don.webp"> </h2>
 
 <a target=_blank href="https://discord.com/users/503559039225954307">
     <img 
@@ -34,12 +25,17 @@ alt="CSS">
 <a target=_blank href="https://mail.google.com/mail/u/0/?view=cm&fs=1&tf=1&to=bimbiru2010@gmail.com">
     <img 
     src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
-    alt="Gmail">
+    alt="Email">
 </a>
 <a target=_blank href="https://instagram.com/bie.bpp">
     <img 
     src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
     alt="Instagram">
-</a> <br>
+</a>
+<a target=_blank href="https://www.linkedin.com/in/biebpp/">
+    <img 
+    src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white"
+    alt="LinkedIn">
+</a>
 
 <hr>
